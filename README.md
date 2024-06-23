@@ -14,6 +14,6 @@ My name is Ben Jordan and I am an undergrad studying computer science at Arizona
     </div>
     <br>
     <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-codes-cmd&layout=compact&theme=transparent&hide=NetLogo)]
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-codes-cmd&layout=compact&theme=transparent&hide=netlogo)]
     </div>
 </div>
