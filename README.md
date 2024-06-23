@@ -9,4 +9,5 @@ My name is Ben Jordan and I am an undergrad studying computer science at Arizona
     <img src="icons/Linux-Dark.svg" alt="Linux-icon" style="height:50px;width:50px;">
     <img src="icons/Python-Dark.svg" alt="Python-icon" style="height:50px;width:50px;">
     <img src="icons/CPP.svg" alt="CPP-icon" style="height:50px;width:50px;">
+    <img src="icons/MySQL-Dark.svg" alt="SQL icon" style="height:50px;width:50px;">
 </div>
