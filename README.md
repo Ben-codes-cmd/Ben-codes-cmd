@@ -3,13 +3,17 @@ My name is Ben Jordan and I am an undergrad studying computer science at Arizona
 
 
 <div align="center">
-    <img src="icons/Insomnia.svg" alt="Insomnia-icon" style="height:50px;width:50px;">
-    <img src="icons/GoLang.svg" alt="GoLang-icon" style="height:50px;width:50px;">
-    <img src="icons/Java-Dark.svg" alt="Java-icon" style="height:50px;width:50px;">
-    <img src="icons/Linux-Dark.svg" alt="Linux-icon" style="height:50px;width:50px;">
-    <img src="icons/Python-Dark.svg" alt="Python-icon" style="height:50px;width:50px;">
-    <img src="icons/CPP.svg" alt="CPP-icon" style="height:50px;width:50px;">
-    <img src="icons/MySQL-Dark.svg" alt="SQL icon" style="height:50px;width:50px;">
+    <div>
+        <img src="icons/Insomnia.svg" alt="Insomnia-icon" style="height:50px;width:50px;">
+        <img src="icons/GoLang.svg" alt="GoLang-icon" style="height:50px;width:50px;">
+        <img src="icons/Java-Dark.svg" alt="Java-icon" style="height:50px;width:50px;">
+        <img src="icons/Linux-Dark.svg" alt="Linux-icon" style="height:50px;width:50px;">
+        <img src="icons/Python-Dark.svg" alt="Python-icon" style="height:50px;width:50px;">
+        <img src="icons/CPP.svg" alt="CPP-icon" style="height:50px;width:50px;">
+        <img src="icons/MySQL-Dark.svg" alt="SQL icon" style="height:50px;width:50px;">
+    </div>
+    <br>
+    <div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-codes-cmd&layout=compact&theme=transparent&hide=NetLogo)]
+    </div>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-codes-cmd&layout=compact&bg_color=00000000&theme=dracula)]
