@@ -11,3 +11,5 @@ My name is Ben Jordan and I am an undergrad studying computer science at Arizona
     <img src="icons/CPP.svg" alt="CPP-icon" style="height:50px;width:50px;">
     <img src="icons/MySQL-Dark.svg" alt="SQL icon" style="height:50px;width:50px;">
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-codes-cmd&layout=compact&bg_color=00000000&theme=dracula)]
