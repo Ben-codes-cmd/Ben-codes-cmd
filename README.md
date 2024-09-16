@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Ben Jordan and I am an undergrad studying computer science at Arizona State University as well as a software engineering intern at Kochava. I am passionate about automation and building scalable systems.
+My name is Ben Jordan and I am an undergrad studying computer science at Arizona State University. I am passionate about automation and building secure, scalable systems.
 
 
 <div align="center">
