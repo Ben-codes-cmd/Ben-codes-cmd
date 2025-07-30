@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Ben, an undergraduate computer science student at Arizona State University with a focus on building fullstack applications in the cloud. Lately, I've been working with Node.js, Tailwind CSS, and AWS. 
+I'm Ben, an undergraduate computer science student at Arizona State University with a focus on building fullstack applications in the cloud. Lately, I've been working with Node.js, React, and AWS. 
 
 
 <div align="center">
