@@ -14,6 +14,8 @@ I'm Ben, an undergraduate computer science student at Arizona State University w
 <br>
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-codes-cmd&layout=compact&theme=transparent&hide=netlogo,processing)
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-codes-cmd&layout=compact&theme=transparent&hide=netlogo,processing) 
+--->
 
 </div>
